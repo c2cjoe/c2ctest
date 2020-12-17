@@ -9,4 +9,4 @@ a modification to the README
 
 ## Another modification
 
-Here is another conflicting change
+You are both wrong. Here is the correct line.
